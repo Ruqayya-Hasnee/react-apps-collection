@@ -1,4 +1,5 @@
 import Counter from "./components/Counter";
+import Form from "./components/Form";
 import Message from "./components/Message";
 function App() {
   const seatNumbers=[6,3,7]
@@ -10,7 +11,7 @@ function App() {
   }
   return (
     <div className="App">
-     <Counter />
+     <Form />
     </div>
   )
 }
