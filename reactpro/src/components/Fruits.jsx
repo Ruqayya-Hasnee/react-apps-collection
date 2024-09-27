@@ -4,9 +4,9 @@ export default function Fruits() {
 //   const fruits = ["Apple", "Mango", "Orange", "Banana"];
 const fruits = [
     {name: "Apple", price: 10, emoji: "🍎"},
-    {name: "Mango", price: 20, emoji: "🥭"},
+    {name: "Mango", price: 2, emoji: "🥭"},
     {name: "Banana", price: 15, emoji: "🍌"},
-    {name: "Pineapple", price: 14, emoji: "🍍"},
+    {name: "Pineapple", price: 4, emoji: "🍍"},
     {name: "Orange", price: 19, emoji: "🍊"},
 ]
   return (
