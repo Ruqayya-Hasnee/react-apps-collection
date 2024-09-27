@@ -1,1 +1,1 @@
-# react-apps-collection
+# react-playground
