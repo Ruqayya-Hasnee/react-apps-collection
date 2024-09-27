@@ -1,5 +1,6 @@
 import InlineComponent from "./components/InlineComponent"
 import Todo from "./components/Todo"
+import "./css/style.css"
 
 function App() {
   
