@@ -1,3 +1,4 @@
+import Counter from "./components/Counter";
 import Message from "./components/Message";
 function App() {
   const seatNumbers=[6,3,7]
@@ -9,7 +10,7 @@ function App() {
   }
   return (
     <div className="App">
-     <Message />
+     <Counter />
     </div>
   )
 }
