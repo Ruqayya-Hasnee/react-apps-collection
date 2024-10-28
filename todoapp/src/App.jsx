@@ -1,16 +1,14 @@
-import InlineComponent from "./components/InlineComponent"
-import OutLineComponent from "./components/OutLineComponent"
-import Todo from "./components/Todo"
-
+import Header from "./components/Header";
+import Todo from "./components/Todo";
+import "./App.css";
 
 function App() {
-  
   return (
     <div className="App">
-    <InlineComponent />
-      <OutLineComponent />
+      <Header />
+      <Todo />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
